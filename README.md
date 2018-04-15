@@ -1,2 +1,2 @@
-# diskrspace.github.io
-Project official website
+# Diskr.Space
+Project official website: [https://diskr.space](https://diskr.space)

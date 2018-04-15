@@ -1,0 +1,36 @@
+[
+{
+	"uri": "http://www.example.com/post/first/",
+	"title": "Official website online",
+	"tags": [],
+	"description": "",
+	"content": "The official website for Diskr.Space is online today.\n"
+},
+{
+	"uri": "http://www.example.com/",
+	"title": "About",
+	"tags": [],
+	"description": "",
+	"content": "Diskr.Space is a manangement tool for a lot of files on disks.\n"
+},
+{
+	"uri": "http://www.example.com/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.example.com/post/",
+	"title": "Posts",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.example.com/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
