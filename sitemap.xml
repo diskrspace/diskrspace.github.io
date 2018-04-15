@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/post/first/</loc>
+    <loc>http://diskr.space/post/first/</loc>
     <lastmod>2018-04-15T10:49:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>http://diskr.space/</loc>
     <lastmod>2018-04-15T10:49:14+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>http://diskr.space/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/post/</loc>
+    <loc>http://diskr.space/post/</loc>
     <lastmod>2018-04-15T10:49:22+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>http://diskr.space/tags/</loc>
     <priority>0</priority>
   </url>
   
