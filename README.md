@@ -1,2 +1,2 @@
 # Diskr.Space
-Project official website: [https://diskr.space](https://diskr.space)
+Project official website: [http://diskr.space](http://diskr.space)
