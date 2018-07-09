@@ -1,5 +1,12 @@
 [
 {
+	"uri": "http://diskr.space/post/v1.0a5/",
+	"title": "First release V1.0a5",
+	"tags": [],
+	"description": "",
+	"content": "The first version 1.0-alpha5 is released today.\nhttps://github.com/diskrspace/diskr.space\n"
+},
+{
 	"uri": "http://diskr.space/post/first/",
 	"title": "Official website online",
 	"tags": [],
@@ -11,7 +18,7 @@
 	"title": "About",
 	"tags": [],
 	"description": "",
-	"content": "Diskr.Space is a manangement tool for a lot of files on disks.\n"
+	"content": "Diskr.Space is a manangement tool for a lot of files on disks.\nSource code: https://github.com/diskrspace/diskr.space\n"
 },
 {
 	"uri": "http://diskr.space/categories/",
