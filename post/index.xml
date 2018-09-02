@@ -6,10 +6,20 @@
     <description>Recent content in Posts on DiskrSpace</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2018, diskr.space; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Jul 2018 23:25:22 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 02 Sep 2018 12:05:00 +0800</lastBuildDate>
     
 	<atom:link href="http://diskr.space/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Release V1.0a6</title>
+      <link>http://diskr.space/post/v1.0a6/</link>
+      <pubDate>Sun, 02 Sep 2018 12:05:00 +0800</pubDate>
+      
+      <guid>http://diskr.space/post/v1.0a6/</guid>
+      <description>Bugs fixed Performance optimized UI optimized  https://github.com/diskrspace/diskr.space
+2018-09-02</description>
+    </item>
     
     <item>
       <title>First release V1.0a5</title>
@@ -18,7 +28,8 @@
       
       <guid>http://diskr.space/post/v1.0a5/</guid>
       <description>The first version 1.0-alpha5 is released today.
-https://github.com/diskrspace/diskr.space</description>
+https://github.com/diskrspace/diskr.space
+2018-07-09</description>
     </item>
     
     <item>
@@ -27,7 +38,8 @@ https://github.com/diskrspace/diskr.space</description>
       <pubDate>Sun, 15 Apr 2018 10:49:22 +0800</pubDate>
       
       <guid>http://diskr.space/post/first/</guid>
-      <description>The official website for Diskr.Space is online today.</description>
+      <description>The official website for Diskr.Space is online today.
+2018-04-15</description>
     </item>
     
   </channel>
