@@ -14,11 +14,11 @@
     <item>
       <title>Release V1.0a7</title>
       <link>http://diskr.space/post/v1.0a7/</link>
-      <pubDate>Mon, 28 Jan 2019 10:52:54 +0800</pubDate>
+      <pubDate>Tue, 29 Jan 2019 10:52:54 +0800</pubDate>
       
       <guid>http://diskr.space/post/v1.0a7/</guid>
-      <description>Bugs fixed  Save settings error  New features  Batch delete duplicated files  https://github.com/diskrspace/diskr.space
-2019-01-28</description>
+      <description>Bugs fixed  Save settings error endless loop when duplicated files less than count  New features  Batch delete duplicated files  https://github.com/diskrspace/diskr.space
+2019-01-29</description>
     </item>
     
     <item>

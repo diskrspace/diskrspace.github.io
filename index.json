@@ -4,7 +4,7 @@
 	"title": "Release V1.0a7",
 	"tags": [],
 	"description": "",
-	"content": " Bugs fixed  Save settings error  New features  Batch delete duplicated files  https://github.com/diskrspace/diskr.space\n2019-01-28\n"
+	"content": " Bugs fixed  Save settings error endless loop when duplicated files less than count  New features  Batch delete duplicated files  https://github.com/diskrspace/diskr.space\n2019-01-29\n"
 },
 {
 	"uri": "http://diskr.space/post/v1.0a6/",
